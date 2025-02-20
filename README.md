@@ -16,7 +16,7 @@
     ```
 2. 実行権限を付与:
     ```sh
-    cd file-cleanup-tools-for-mac
+    cd shell/file-cleanup-tools-for-mac
     chmod +x cleanup.sh
     ```
 
